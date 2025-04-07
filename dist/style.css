@@ -10,8 +10,8 @@ body {
 }
 
 #game-container {
-    width: 600px;
-    height: 200px;
+    width: 900px;
+    height: 380px;
     border: 1px solid #000;
     position: relative;
     overflow: hidden; /* 隱藏超出範圍的元素 */
@@ -19,8 +19,8 @@ body {
 }
 
 #dino {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 35px;
     /* 暫時代替圖片，你可以用 background-image 替換 */
     background-color: #666;
     /* background-image: url('dino.png'); */ /* 加上這行並提供圖片 */
